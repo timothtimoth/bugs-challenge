@@ -1,6 +1,9 @@
 
 1) Download this repository as a zip file at the button that says 'zip' on the left hand side above.
 2) Extract the zip into a new or empty directory
-3) open index.html in your Chrome browser (this page does not work in IE or Firefox and is untested in Opera and Safari)
-4) copy the csv data (in the expected format) and paste it into the box that says "simply paste csv content in this box and press enter"
-5) press enter
+3) Make a note of the location that you extracted the zip file to or open the new/empty directory in windows explorer and copy the path
+4) open your Chrome browser (this app does not work in IE or Firefox and is untested in Opera and Safari)
+5) enter the location of the index.html file in the address bar (either type it out or paste in the copied path + /index.html and press enter
+6) copy the csv data (in the expected format) and paste it into the box that says "simply paste csv content in this box and press enter"
+7) press enter
+
